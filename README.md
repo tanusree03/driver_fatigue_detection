@@ -1,4 +1,6 @@
 # driver_fatigue_detection
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tanusree03/driver_fatigue_detection/blob/main/driver_fatigue_detection.ipynb)
+
 Multimodal deep learning model for driver fatigue detection using eye images (ViT), EEG, and HRV data. Uses late fusion with a meta-classifier to combine visual and physiological features. Built in PyTorch and Colab for real-time fatigue monitoring.
 
 ## Overview
